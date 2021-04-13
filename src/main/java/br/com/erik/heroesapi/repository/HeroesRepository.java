@@ -1,6 +1,6 @@
-package com.digitalinnovation.livecoding.repository;
+package br.com.erik.heroesapi.repository;
 
-import com.digitalinnovation.livecoding.document.Heroes;
+import br.com.erik.heroesapi.document.Heroes;
 import org.socialsignin.spring.data.dynamodb.repository.EnableScan;
 import org.springframework.data.repository.CrudRepository;
 
